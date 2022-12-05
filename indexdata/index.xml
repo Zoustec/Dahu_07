@@ -81,7 +81,7 @@
        latitude="24.379680555556"
        longitude="120.85057777778"
        heading="0"
-       thumburl="%FIRSTXML%/_07_10/thumbnail.jpg"
+       thumburl="%FIRSTXML%/07_10/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -106,32 +106,32 @@
           fov="90.000000"
           hlookat="-31.545000"
           vlookat="-2.835000"/>
-    <preview url="%FIRSTXML%/_07_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/07_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2048" tiledimageheight="2048">
-          <front url="_07_10/0/1/%v_%u.jpg"/>
-          <right url="_07_10/1/1/%v_%u.jpg"/>
-          <back  url="_07_10/2/1/%v_%u.jpg"/>
-          <left  url="_07_10/3/1/%v_%u.jpg"/>
-          <up    url="_07_10/4/1/%v_%u.jpg"/>
-          <down  url="_07_10/5/1/%v_%u.jpg"/>
+          <front url="07_10/0/1/%v_%u.jpg"/>
+          <right url="07_10/1/1/%v_%u.jpg"/>
+          <back  url="07_10/2/1/%v_%u.jpg"/>
+          <left  url="07_10/3/1/%v_%u.jpg"/>
+          <up    url="07_10/4/1/%v_%u.jpg"/>
+          <down  url="07_10/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_07_10/0/0/%v_%u.jpg"/>
-          <right url="_07_10/1/0/%v_%u.jpg"/>
-          <back  url="_07_10/2/0/%v_%u.jpg"/>
-          <left  url="_07_10/3/0/%v_%u.jpg"/>
-          <up    url="_07_10/4/0/%v_%u.jpg"/>
-          <down  url="_07_10/5/0/%v_%u.jpg"/>
+          <front url="07_10/0/0/%v_%u.jpg"/>
+          <right url="07_10/1/0/%v_%u.jpg"/>
+          <back  url="07_10/2/0/%v_%u.jpg"/>
+          <left  url="07_10/3/0/%v_%u.jpg"/>
+          <up    url="07_10/4/0/%v_%u.jpg"/>
+          <down  url="07_10/5/0/%v_%u.jpg"/>
       </level>
     </image>
     <image type="CUBE" devices="androidstock.and.no-webgl">
-      <front url="_07_10/mobile/0.jpg"/>
-      <right url="_07_10/mobile/1.jpg"/>
-      <back  url="_07_10/mobile/2.jpg"/>
-      <left  url="_07_10/mobile/3.jpg"/>
-      <up    url="_07_10/mobile/4.jpg"/>
-      <down  url="_07_10/mobile/5.jpg"/>
+      <front url="07_10/mobile/0.jpg"/>
+      <right url="07_10/mobile/1.jpg"/>
+      <back  url="07_10/mobile/2.jpg"/>
+      <left  url="07_10/mobile/3.jpg"/>
+      <up    url="07_10/mobile/4.jpg"/>
+      <down  url="07_10/mobile/5.jpg"/>
     </image>
 
 
